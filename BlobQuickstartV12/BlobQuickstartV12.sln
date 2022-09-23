@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobQuickstartV12", "BlobQuickstartV12\BlobQuickstartV12.csproj", "{D0E88A30-C24D-4BA4-A430-059868E6771C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0E88A30-C24D-4BA4-A430-059868E6771C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E88A30-C24D-4BA4-A430-059868E6771C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E88A30-C24D-4BA4-A430-059868E6771C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E88A30-C24D-4BA4-A430-059868E6771C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389D8D9C-D321-4AC0-8199-E3B91C40FEA4}
+	EndGlobalSection
+EndGlobal
